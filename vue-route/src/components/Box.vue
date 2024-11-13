@@ -6,15 +6,8 @@
 </template>
 
 <script>
-export default {
-  setup() {
-    
-  }
-}
 </script>
 
 <style scoped>
-h2 {
-  color: blue;
-}
+
 </style>
